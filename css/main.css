@@ -163,6 +163,10 @@ input[class^='btn-']:hover {
     opacity: 0.6;
     margin: 0; }
 
+.linking {
+  color: #fff;
+}
+  
 * {
   margin: 0;
   padding: 0; }
